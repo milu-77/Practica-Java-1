@@ -1,7 +1,7 @@
 # Practica Java 01
  
 
-Ejerciciso de practica Inicial realizados en el curso de **Desarrollador Web JAVA**  llevado a cabo por **[MindHub](https://mindhubweb.com "https://mindhubweb.com").** 
+Ejerciciso de practica Inicial realizados en el curso de **Desarrollador Web JAVA**  llevado a cabo en **[MindHub](https://mindhubweb.com "https://mindhubweb.com").** 
 
  ### Java - Ejercitación inicial.
 
